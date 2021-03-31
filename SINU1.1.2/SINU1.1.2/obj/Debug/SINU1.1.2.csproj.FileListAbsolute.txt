@@ -1,0 +1,17 @@
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\bin\Debug\SINU1.1.2.exe.config
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\bin\Debug\SINU1.1.2.exe
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\bin\Debug\SINU1.1.2.pdb
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1.1.2.csprojAssemblyReference.cache
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1._1._2.FAddNewStudent.resources
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1._1._2.FLogIn.resources
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1._1._2.FMenu.resources
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1._1._2.Properties.Resources.resources
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1.1.2.csproj.GenerateResource.cache
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1.1.2.csproj.CoreCompileInputs.cache
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1.1.2.exe
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1.1.2.pdb
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1._1._2.FNotes.resources
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1._1._2.FSchoolSituation.resources
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\bin\Debug\Database1.mdf
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\bin\Debug\Database1_log.ldf
+C:\Eric\Faculta\An 3 Sem 2\II\Laborator\Lab2\Proiect Lab2\SINU1.1.2\SINU1.1.2\obj\Debug\SINU1._1._2.FPersonalData.resources
